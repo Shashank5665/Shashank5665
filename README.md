@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashank-kr-1b6a89194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shashank-kr-1b6a89194" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashank-kr-1b6a89194" target="blank"><img align="center" src="<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>" alt="https://www.linkedin.com/in/shashank-kr-1b6a89194" height="30" width="40" /></a>
 </p>
 
 
