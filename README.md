@@ -34,7 +34,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div style="display:flex;justify-content:center">
+<div style="display:flex;justify-content:space-between">
 <p align="center">
 <a href="https://github.com/Shashank5665">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shashank5665&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
